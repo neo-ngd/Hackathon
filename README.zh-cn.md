@@ -6,9 +6,9 @@ NEO区块链黑客马拉松总部设在伦敦。<br>*其他语言: [English](REA
 
 我们最近有一些活动，下面就写了为社区的集会。里面写了奖哦。
 
-**6月9日** [NEO 区块链比赛 – 深圳](6.09 NEO Blockchain Challenge - Shenzhen Station.md)
+**6月9日** [NEO 区块链比赛 – 深圳](6.09%20NEO%20Blockchain%20Challenge%20-%20Shenzhen.md)
 
-**6月17日** [NEO 区块链比赛 – 伦敦](6.17 NEO Blockchain Challenge - London Station.md)
+**6月17日** [NEO 区块链比赛 – 伦敦](6.17%20NEO%20Blockchain%20Challenge%20-%20London.md)
 
 
 
