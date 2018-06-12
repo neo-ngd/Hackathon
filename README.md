@@ -1,10 +1,10 @@
 # Hackathon
 
-NEO Blockchain hackathon list.<br/>*Read this in other languages: [English](README.md), [简体中文](README.zh-cn.md).* 
+NEO Blockchain Hackathon list.<br/>*Read this in other languages: [English](README.md), [简体中文](README.zh-cn.md).*
 
 ### NGD Goal
 
-We believe that Hackathons and community led competitions can be very healthy for the growth of the ecosystem. 
+We believe that Hackathons and community led competitions can be very healthy for the growth of the ecosystem.
 
 ### Hackathon List
 
