@@ -1,6 +1,6 @@
 # 黑客马拉松
 
-NEO区块链黑客马拉松总部设在伦敦。<br>*其他语言: [English](README.md), [简体中文](README.zh-cn.md).*
+NEO区块链黑客马拉松活动列表。<br>*其他语言: [English](README.md), [日本語](README.jp.md).*
 
 ### 现时活动
 

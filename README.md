@@ -1,6 +1,6 @@
 # Hackathon
 
-NEO Blockchain Hackathon list.<br/>*Read this in other languages: [English](README.md), [简体中文](README.zh-cn.md).*
+NEO Blockchain Hackathon list.<br/>*Read this in other languages: [简体中文](README.zh-cn.md), [日本語](README.jp.md),.*
 
 ### NGD Goal
 
