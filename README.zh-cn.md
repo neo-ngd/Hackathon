@@ -14,6 +14,4 @@ NEO区块链黑客马拉松活动列表。<br>*其他语言: [English](README.md
 
 ### 未来活动
 
-下几个月我们还有很多比赛，以下是我们未来计划的活动。
-
-**2018年9月份** [Something Else](README.zh-cn.md)
+**8月24日** [NEO 区块链比赛 – 东京](8.24%20NEO%20Blockchain%20Challenge%20-%20Tokyo.md)
