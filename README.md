@@ -25,7 +25,7 @@ We believe that Hackathons and community led competitions can be very helpful fo
 
   These events are aimed for designers in the NEO community. Events will often be announced and held online. Any individual designer or team can enter the competition with their work. 
 
-### Hackathon List
+### Event List
 
 Events in the past
 
