@@ -19,7 +19,7 @@ We believe that Hackathons and community led competitions can be very helpful fo
 
 - **Competitions**
 
-  Development Competitions are held online once every year. It is open to submissions from teams and individual developers all over the world. Any application using NEO smart contracts is considered. [See last year's competition]()
+  Development Competitions are held online once every year. It is open to submissions from teams and individual developers all over the world. Any application using NEO smart contracts is considered. [See last year's competition]
 
 - **Design**
 
