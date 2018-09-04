@@ -34,9 +34,9 @@ We believe that Hackathons and community led competitions can be very helpful fo
 - **Hackathons**
 - **Competitions**
 
-  - *Nov 20th, 2017* [1st NEO Dev Competition](https://neo.org/blog/details/3074)
+  - *Nov 20th, 2017* [1st NEO Dev Competition - Online](https://neo.org/blog/details/3074)
 - **Design**
-  - *July, 2017* [NEO Website Design Contest](https://www.reddit.com/r/Antshares/comments/6liyj8/neo_website_redesign_competitionwe_are_looking/)
+  - *July, 2017* [NEO Website Design Contest - Online](https://www.reddit.com/r/Antshares/comments/6liyj8/neo_website_redesign_competitionwe_are_looking/)
 
 
 ### Upcoming Events
