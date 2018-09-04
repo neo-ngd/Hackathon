@@ -22,7 +22,7 @@ NEO website plays an essential role of branding and information display and is d
 
 An ideal design should be aesthetically pleasing, accommodating both the designing elements and the technology concept of NEO. The design is required to follow interactive logics and our community operations model.
 
-#### 【NEO Icon Design】
+#### [NEO Icon Design]
 
 NEO is an original public chain project. Many of its concepts are original and self-defined, representing essential parts of the ecosystem. To explain and promote these concepts to the public, we are now collecting icons related to NEO ecosystem.
 
