@@ -19,22 +19,32 @@ We believe that Hackathons and community led competitions can be very helpful fo
 
 - **Competitions**
 
-  These developer events are often held once a year and exclusively online. Teams and individuals compete to present their best work for the proposed topic before the deadline. Different categories of winners are often chosen and rewarded. 
+  Development Competitions are held online once every year. It is open to submissions from teams and individual developers all over the world. Any dApp or website relating to NEO blockchain is considered. [See last year's competition]
 
 - **Design**
 
   These events are aimed for designers in the NEO community. Events will often be announced and held online. Any individual designer or team can enter the competition with their work. 
 
-### Event List
+### Past Events
 
-Events in the past
+- **Challenges**
+  - *June 9th* [NEO Blockchain Challenge – Shenzhen](events/6.09%20NEO%20Blockchain%20Challenge%20-%20Shenzhen.md)
+  - *June 17th* [NEO Blockchain Challenge – London](events/6.17%20NEO%20Blockchain%20Challenge%20-%20London.md)
+  - *August 24th* [NEO Blockchain Challenge – Tokyo](events/8.24%20NEO%20Blockchain%20Challenge%20-%20Tokyo.md)
+- **Hackathons**
+- **Competitions**
 
-**June 9th** [NEO Blockchain Challenge – Shenzhen](6.09%20NEO%20Blockchain%20Challenge%20-%20Shenzhen.md)
+  - *Nov 20th, 2017* [1st NEO Dev Competition](https://neo.org/blog/details/3074)
+- **Design**
+  - *July, 2017* [NEO Website Design Contest](https://www.reddit.com/r/Antshares/comments/6liyj8/neo_website_redesign_competitionwe_are_looking/)
 
-**June 17th** [NEO Blockchain Challenge – London](6.17%20NEO%20Blockchain%20Challenge%20-%20London.md)
 
-**August 24th** [NEO Blockchain Challenge – Tokyo](8.24%20NEO%20Blockchain%20Challenge%20-%20Tokyo.md)
+### Upcoming Events
 
-Events coming up for the community to participate in. Prizes are listed inside.
 
-**Sep 10th - Oct 22nd** [NEO Design Contest](9.10%20NEO%20Design%20Contest.md)
+- **Challenges**
+- **Hackathons**
+- **Competitions**
+- **Design**
+  - *Sep 10th - Oct 22nd* NEO Design Contest - Online
+
