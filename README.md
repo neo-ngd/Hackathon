@@ -1,8 +1,8 @@
 # Hackathon
 
-A list of past (and upcoming) hackathons/other challenges. 
-
 > *Read this in other languages: [简体中文](README.zh-cn.md).*
+
+A list of past (and upcoming) hackathons/other challenges. 
 
 ### NGD Goal
 
