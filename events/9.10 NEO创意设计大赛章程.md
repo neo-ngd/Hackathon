@@ -40,7 +40,7 @@ NEO Gas / NEO Asset / NEO  Contract / NEO VM / NEO DevPack / NEO ID / NEO FS / N
 
 ## 奖项设置：
 
-共计：201000万元
+共计：201000元
 
 #### 【NEO官网设计】
 
