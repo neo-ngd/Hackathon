@@ -4,13 +4,12 @@
 
 A list of past (and upcoming) hackathons/other challenges. 
 
-*This page has a browsable version available here: https://taomo-eo.github.io/Hackathon/*
-
 ### NGD Goal
 
 We believe that Hackathons and community led competitions can be very helpful for connecting the neo community and developing the neo ecosystem.
 
 ### Event types
+
 - **Challenges**
 
   Challenges are often smaller in scale compared to Hackathons, and are held multiple times a year. Participants will be provided with several problems specific to the development side of NEO, with difficulty ranging from novice up to advanced. These events have been held in major cities worldwide, but could be held either offline or online in the future. 
@@ -35,18 +34,14 @@ We believe that Hackathons and community led competitions can be very helpful fo
   - *August 24th* [NEO Blockchain Challenge – Tokyo](events/8.24%20NEO%20Blockchain%20Challenge%20-%20Tokyo.md)
 - **Hackathons**
 - **Competitions**
-
   - *Nov 20th, 2017* [1st NEO Dev Competition - Online](https://neo.org/blog/details/3074)
 - **Design**
   - *July, 2017* [NEO Website Design Contest - Online](https://www.reddit.com/r/Antshares/comments/6liyj8/neo_website_redesign_competitionwe_are_looking/)
 
-
 ### Upcoming Events
-
 
 - **Challenges**
 - **Hackathons**
 - **Competitions**
 - **Design**
   - *Sep 10th - Oct 22nd* NEO Design Contest - Online
-
