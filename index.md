@@ -1,3 +1,7 @@
+---
+title: Hackathons
+---
+
 This page is dedicated to listing past and upcoming hackathons/other challenges. 
 
 ### NGD Goal
