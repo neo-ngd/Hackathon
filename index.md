@@ -2,6 +2,8 @@
 title: Hackathons
 ---
 
+> *Read this page in other languages: [简体中文](README.zh-cn.md)*
+
 This page is dedicated to listing past and upcoming hackathons/other challenges. 
 
 ### NGD Goal
