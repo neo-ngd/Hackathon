@@ -1,6 +1,4 @@
-# Hackathon
-
-A list of past (and upcoming) hackathons/other challenges. 
+This page is dedicated to listing past and upcoming hackathons/other challenges. 
 
 ### NGD Goal
 
