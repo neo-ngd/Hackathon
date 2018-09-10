@@ -2,7 +2,7 @@
 title: Events
 ---
 
-*Read this page in other languages: [简体中文](list-all.cn.md)*
+*Read this page in other languages: [简体中文](list-all-cn.md)*
 
 ### Past Events
 
