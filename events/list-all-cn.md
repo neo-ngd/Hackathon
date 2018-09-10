@@ -2,7 +2,7 @@
 
 ---
 
-> *其他语言: [English](README.md).*
+> *其他语言: [English](list-all.md).*
 
 # 活动列表 
 
