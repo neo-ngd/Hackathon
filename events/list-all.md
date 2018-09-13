@@ -7,7 +7,7 @@ title: Events
 ### Past Events
 
 - **Challenges**
-  - *June 9th* [NEO Blockchain Challenge – Shenzhen](6.09-NEO-Blockchain-Challenge-Shenzhen.md)
+  - *June 9th* [NEO Blockchain Challenge – Shenzhen](6.09-NEO-Blockchain-Challenge-Shenzhen.html#neo-blockchain-challenge---shenzhen)
   - *June 17th* [NEO Blockchain Challenge – London](6.17-NEO-Blockchain-Challenge-London.md)
   - *August 24th* [NEO Blockchain Challenge – Tokyo](8.24-NEO-Blockchain-Challenge-Tokyo.md)
 - **Hackathons**
@@ -19,6 +19,7 @@ title: Events
 ### Upcoming Events
 
 - **Challenges**
+  - *Sep 22nd* [NEO Blockchain Challenge - Chengdu](9.12-NEO-Blockchain-Challenge-Chengdu)
 - **Hackathons**
 - **Competitions**
 - **Design**
