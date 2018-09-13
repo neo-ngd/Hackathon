@@ -46,5 +46,5 @@ We believe that Hackathons and community led competitions can be very helpful fo
 - **Hackathons**
 - **Competitions**
 - **Design**
-  - *Sep 12th - Oct 22nd* [NEO Design Contest - Online](Hackathon/events/9.10 NEO Design Contest.md)
+  - *Sep 12th - Oct 22nd* [NEO Design Contest - Online](https://github.com/neo-ngd/Hackathon/blob/master/events/9.10%20NEO%20Design%20Contest.md)
 
