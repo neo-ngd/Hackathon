@@ -1,10 +1,10 @@
 # Hackathon
 
 > *Read this in other languages: [简体中文](README.zh-cn.md).*
+>
+> *This page has a browsable version available here: https://taomo-eo.github.io/Hackathon/*
 
 A list of past (and upcoming) hackathons/other challenges. 
-
-*This page has a browsable version available here: https://taomo-eo.github.io/Hackathon/*
 
 ### NGD Goal
 
