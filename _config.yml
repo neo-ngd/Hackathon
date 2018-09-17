@@ -3,8 +3,9 @@ title: NEO Hackathons
 author: NEO Foundation
 email: contact@neo.org
 description: > # this means to ignore newlines until "twitter_username:"
-  We believe that Hackathons and community led competitions can be very helpful 
-  for connecting the neo community and developing the neo ecosystem.
+  Hackathons & Community events for NEO
+
+show_downloads: false
 
 # Build settings
 theme: jekyll-theme-cayman
