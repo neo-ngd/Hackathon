@@ -2,7 +2,9 @@
 title: 活动列表
 ---
 
-> *其他语言: [English](list-all.md).*
+# 活动列表
+
+> *其他语言: [English](list-all.html#contents).*
 
 NEO区块链黑客马拉松活动列表
 
