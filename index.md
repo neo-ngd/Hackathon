@@ -2,7 +2,7 @@
 title: Hackathons
 ---
 
-> *Read this page in other languages: [简体中文](events/list-all-cn.md)*
+> *Read this page in other languages: [简体中文](index-cn.md)*
 
 This page is dedicated to listing past and upcoming hackathons/other challenges. 
 
