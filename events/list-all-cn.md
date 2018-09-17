@@ -27,4 +27,7 @@ NEO区块链黑客马拉松活动列表
   **6月17日** [NEO 区块链比赛 – 伦敦](6.17-NEO-Blockchain-Challenge-London.md)
 
   **8月24日** [NEO 区块链比赛 – 东京](8.24-NEO-Blockchain-Challenge-Tokyo.html#Chinese)
+  
+- **开发者大赛**
 
+  **2017年11月-2018年3月** [第一届NEO开发者大赛](https://neo.org/competition.html)

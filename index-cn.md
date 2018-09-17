@@ -2,7 +2,6 @@
 
 > *其他语言: [English](README.md).*
 >
-> *请阅读此文档的网页版: https://taomo-eo.github.io/Hackathon/*
 
 NEO区块链黑客马拉松活动列表。<br>
 
@@ -29,28 +28,4 @@ NEO区块链黑客马拉松活动列表。<br>
 
   设计比赛面向NEO社区的设计人才。活动通常会在线公布和举行。任何个人或团队设计都可以参加比赛。
 
-### 未来的活动
-
-- **区块链挑战赛**
-
-  **9月22日** [NEO 区块链挑战赛 - 成都](9.12-NEO-Blockchain-Challenge-Chengdu.md)
-
-
-- **设计比赛**
-
-  **9月12日 - 10月22日** [NEO 创意设计大赛 - 在线](9.10-NEO-创意设计大赛章程.md)
-
-### 过去的活动
-
-- **区块链挑战赛**
-
-  **6月9日** [NEO 区块链比赛 – 深圳](6.09-NEO-Blockchain-Challenge-Shenzhen.md)
-
-  **6月17日** [NEO 区块链比赛 – 伦敦](6.17-NEO-Blockchain-Challenge-London.md)
-
-  **8月24日** [NEO 区块链比赛 – 东京](8.24-NEO-Blockchain-Challenge-Tokyo.html#Chinese)
-
-- **开发者大赛**
-
-  **2017年11月-2018年3月** [第一届NEO开发者大赛](https://neo.org/competition.html)
-
+#### [活动列表](list-all-cn.html#contents)
