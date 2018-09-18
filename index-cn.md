@@ -1,6 +1,6 @@
 # 黑客马拉松
 
-> *其他语言: [English](index.md).*
+> *其他语言: [English](index.md#content).*
 >
 
 NEO区块链黑客马拉松活动列表。<br>
