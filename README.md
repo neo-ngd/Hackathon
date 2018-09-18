@@ -2,7 +2,7 @@
 
 > *Read this in other languages: [简体中文](README.zh-cn.md).*
 >
-> *This page has a browsable version available here: https://taomo-eo.github.io/Hackathon/*
+> *This page has a browsable version available here: https://neo-ngd.github.io/Hackathon/*
 
 A list of past (and upcoming) hackathons/other challenges. 
 
