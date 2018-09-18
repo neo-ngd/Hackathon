@@ -28,4 +28,4 @@ NEO区块链黑客马拉松活动列表。<br>
 
   设计比赛面向NEO社区的设计人才。活动通常会在线公布和举行。任何个人或团队设计都可以参加比赛。
 
-#### [活动列表](list-all-cn.html#contents)
+#### [活动列表](events/list-all-cn.html#content)
