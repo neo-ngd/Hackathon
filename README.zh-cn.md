@@ -2,7 +2,7 @@
 
 > *其他语言: [English](README.md).*
 >
-> *请阅读此文档的网页版: https://taomo-eo.github.io/Hackathon/*
+> *请阅读此文档的网页版: https://neo-ngd.github.io/Hackathon/*
 
 NEO区块链黑客马拉松活动列表。<br>
 
