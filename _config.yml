@@ -1,1 +1,15 @@
+encoding: UTF-8
+title: NEO Hackathons
+author: NEO Foundation
+email: contact@neo.org
+description: > # this means to ignore newlines until "twitter_username:"
+  Hackathons & Community events for NEO
+
+show_downloads: false
+
+# Build settings
 theme: jekyll-theme-cayman
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
