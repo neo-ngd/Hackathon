@@ -1,0 +1,84 @@
+
+## NEO Blockchain Challenge - Switzerland
+
+We designed this competition as a way for the community to get together and try to tackle the development side of NEO's complex ecosystem. Participants will be divided into several small teams. All teams will have 26 hours to innovate, design and develop their projects related to the theme. We wish for as many of you to try your hand at this event, we're welcoming people from all areas in the NEO community. If you're a seasoned developer, UI/UX designer, or even an avid NEO investor, please join us in this friendly competition for a chance to win some GAS. The total prize adds up to more than 1000 GAS!
+
+### Challenge Location And Date
+
+Location：Zug, Switzerland
+
+
+Date： 2018.11.3 - 2018.11.4
+
+### Challenge Awards
+
+- First Prize - 400 GAS (1 team)
+
+- Second Prize - 250 GAS (1 team)
+
+- Third Prize - 100 GAS (3 team)
+
+- Mystery Prize (It depends on the submitted work)
+
+### Schedule
+
+- November 3rd (Saturday)
+
+  9:30    Sign up
+
+  10:00 - 10:30    Opening ceremony, announce hackathon theme and rules
+
+  10:30 - 11:30     Free Team Up
+
+  11:30   Start hacking!
+
+  12:30 - 13:30  Lunch
+
+  13:30  Continue hacking
+
+
+- Novermber 4th (Sunday)
+
+
+
+   18:00 Project Submit Due
+  
+   18:30 - 20:30 Presetations
+
+   21:00 - 21:30 Judge and announce the winner
+
+
+### Challenge Rules
+1.	All code projects should use the MIT license.
+2.	Teams can use any platform or programing language to develop the system.
+3.	There is no maximum or minimum team size.
+4.	Organizers, judges, or sponsors are not allowed to participate or join a team.
+5.	All members of the team should be present during the day of the event, June 17th, as we believe it's integral to community development and working cooperatively. Leaving the venue for a duration to hack elsewhere is also allowed.
+6.	Teams can of course gain advice and support from organizers, volunteers, sponsors, and others. Judges can help teams with basic questions, but we strongly recommend team should think and solve problems independently.
+7.	Teams can use an idea they had before the event or adding new features to existing projects. However, we highly encourage innovation.
+8.	The competing teams are required to complete all the development work and submit code within the specified time.
+9.	We are holding this challenge at a very high regard, thus if there are no teams which have shown exemplary work, then the grand prize may be ommitted and left vacant.
+10.	Teams can be disqualified from the competition at the organizers' discretion. Reasons might include, but are not limited to, breaking the Competition Rules or other unsportsmanlike behaviour.
+11.	This is a competition for the community, so please follow the rules and respect competing teams.
+
+
+### Forming Teams
+
+It's highly recommended that challengers can organize a team in advance or on site to participate in this competition. 
+
+### Judging Factors
+
+The score will be judged by:
+
+- Functionality
+
+- Ease to Use
+
+- Stability
+
+- Performance
+
+- Orginiality
+
+
+
