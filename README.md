@@ -31,7 +31,7 @@ We believe that Hackathons and community led competitions can be very helpful fo
 
 - **Hackathons**
   - *Sep 21st - Oct 21st* [NEO Blockchain Hackathon - Rotterdam & Delft](https://github.com/neo-ngd/Hackathon/blob/master/events/10.20-NEO-Blockchain-Hackathon-Rotterdam-Delft.md)
-  - *Sep 21st - Oct 28th* [NEO Blockchain Hackathon — Berlin](https://github.com/neo-ngd/Hackathon/blob/master/events/10.27-NEO-Blockchain-Hackathon-Berlin.md)
+  - *Sep 21st - Oct 28th* [NEO Blockchain Hackathon - Berlin](https://github.com/neo-ngd/Hackathon/blob/master/events/10.27-NEO-Blockchain-Hackathon-Berlin.md)
   - *Nov 3rd - Nov 4th* [NEO Blockchain Hackathon - Zurich](https://github.com/neo-ngd/Hackathon/blob/master/events/11.03%20NEO%20Blockchain%20Hackathon%20-%20Zurich.md)
 
 - **Design**
