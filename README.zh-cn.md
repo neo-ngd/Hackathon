@@ -32,25 +32,38 @@ NEO区块链黑客马拉松活动列表。<br>
 ### 未来的活动
 
 - **区块链挑战赛**
-
-  **9月22日** [NEO 区块链挑战赛 - 成都](events/9.12-NEO-Blockchain-Challenge-Chengdu.md)
-
-
+- **黑客马拉松**
+- **开发者大赛**
 - **设计比赛**
-
-  **9月12日 - 10月22日** [NEO 创意设计大赛 - 在线](events/9.10-NEO-创意设计大赛章程.md)
 
 ### 过去的活动
 
 - **区块链挑战赛**
 
-  **6月9日** [NEO 区块链比赛 – 深圳](events/6.09-NEO-Blockchain-Challenge-Shenzhen.md)
+  **2018 年**
 
-  **6月17日** [NEO 区块链比赛 – 伦敦](events./6.17-NEO-Blockchain-Challenge-London.md)
+  **9月22日** [NEO 区块链挑战赛 - 成都](events/9.12-NEO-Blockchain-Challenge-Chengdu.md#content)
 
-  **8月24日** [NEO 区块链比赛 – 东京](events/8.24-NEO-Blockchain-Challenge-Tokyo.md#Chinese)
+  **8月24日** [NEO 区块链比赛 – 东京](events/8.24-NEO-Blockchain-Challenge-Tokyo.html#Chinese)
+
+  **6月17日** [NEO 区块链比赛 – 伦敦](events/6.17-NEO-Blockchain-Challenge-London.md#content)
+
+  **6月9日** [NEO 区块链比赛 – 深圳](events/6.09-NEO-Blockchain-Challenge-Shenzhen.md#content)
+
+- **黑客马拉松**
+
+  **2018 年**
+
+  **11月3日-4日** [NEO区块链黑客马拉松 - 苏黎世站](events/11.03%20NEO%20Blockchain%20Hackathon%20-%20Zurich.md)
+
+  **10月28日** [NEO区块链黑客马拉松 - 柏林站](events/10.27-NEO-Blockchain-Hackathon-Berlin.md)
+
+  **10月20日-21日** [NEO区块链黑客马拉松 - 鹿特丹&代尔夫特](events/10.20-NEO-Blockchain-Hackathon-Rotterdam-Delft.md)
 
 - **开发者大赛**
 
   **2017年11月-2018年3月** [第一届NEO开发者大赛](https://neo.org/competition.html)
 
+- **设计比赛**
+
+  **9月10日** [NEO 创意设计大赛 - 在线](events/9.10-NEO-创意设计大赛章程.md#content)
